@@ -1,0 +1,27 @@
+.header *{
+    background-color:navy;
+    padding: 20px;
+}
+.links {
+   background-image: inherit;
+opacity: 1;
+}
+.about {
+    background-color: royalblue;
+    padding-bottom: 20px;
+    background-image: "about1.png";
+    opacity: 10;
+}
+.Contact {
+ justify-content: space-between;
+ flex-wrap: wrap;
+ 
+  margin: 20px;
+}
+
+.div {
+margin-bottom : 20px;
+
+}
+body{
+    background-color:seagreen}
